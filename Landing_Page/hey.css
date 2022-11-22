@@ -1,0 +1,170 @@
+body{
+    font-family: "Trirong", serif;
+}
+
+#title{
+    background-color: #b6a7bd;
+}
+.container-fluid{
+    padding: 3% 5%;
+}
+.nav-item{
+    padding-left: 38px;
+    font-size: large;
+    padding-top: 10px;
+}
+h1{
+    font-family:  "Sofia", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand{
+    font-family: "Audiowide", sans-serif;
+    padding-right: 30px;
+    font-size: 50px;
+}
+.audi{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue';
+    padding-top: 30px;
+
+}
+#features{
+    padding: 7% 10% ;
+    padding-bottom: 10px;
+}
+.feature-box{
+    text-align: center;
+    padding: 5%;
+}
+h3{
+    font-family:'Kanit';
+    padding-top: 7px;
+}
+p{
+    color: #8f8f8f;
+    font-family: 'Bree Serif';
+    font-size: large;
+}
+.quote{
+    text-align: center;
+    font-size: large;
+}
+.pri {
+    text-align: center;
+    padding-bottom: 10px;
+}
+#priz{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.prize{
+    padding-top: 0;
+    padding-left: 200px;
+    padding-bottom: 80px;
+}
+.design{
+    background-color: rgb(253, 105, 105);
+    text-align: center;
+    padding: 5%;
+}
+.dgn{
+    color: black;
+    font-size: larger;
+}
+.technology{
+    text-align: center;
+}
+.tech{
+    padding: 10px;
+    padding-top: 40px;
+}
+.tech-h{
+    font-family: 'Acme';
+}
+
+.about-app{
+    padding: 5%;
+}
+.mobapp-p{
+    font-size: x-large;
+    letter-spacing: 2px;
+}
+#benefit-btn{
+    margin: 5%;
+    margin-left: 45%;
+    margin-top: 25%;
+    border-color: #8f8f8f;
+    color: rgb(255, 174, 0);
+    padding: 10px;
+    border-width: 3px;
+    font-weight: 800;
+    letter-spacing: 2px;
+}
+
+#benefit-btn:hover{
+    background-color: rgb(248, 201, 99);
+    color: white;
+}
+
+.cc-img{
+    text-align: center;
+    background-color: rgb(19, 18, 18);
+    padding: 60px;
+    color: white;
+}
+.cc-h{
+    letter-spacing: 2px;
+}
+.cc-car{
+    padding: 20px;
+}
+
+.buy-now{
+    padding: 50px;
+}
+.clr-car{
+    margin-bottom: 80px;
+    font-family: 'Russo One';
+    color: #8b8091;
+}
+#lt1-cars , #lt2-cars, #lt3-cars{
+    font-size: xx-large;
+    font-family: 'Holtwood One SC';
+    padding-right: 5px;
+}
+#lt-cars{
+font-size: xx-large;
+}
+
+.plus-fetur{
+    letter-spacing: 2px;
+    font-size:large ;
+}
+.choose-brand{
+    font-family: 'Righteous';
+    text-align: center;
+    letter-spacing: 3px;
+    padding-top: 90px;
+}
+#other-brand{
+    padding: 5%;
+    padding-left: 7%;
+}
+#foot-li{
+    background-color: rgb(230, 176, 203);
+    padding: 5%;
+}
+.follow{
+    text-align: center;
+    padding: 5%;
+}
+#f-link{
+    padding-left: 18%;
+}
+.foot-about{
+    list-style: none;
+    letter-spacing: 1px;
+}
